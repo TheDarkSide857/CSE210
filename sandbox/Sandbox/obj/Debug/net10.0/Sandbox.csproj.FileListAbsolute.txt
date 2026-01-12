@@ -1,0 +1,15 @@
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/bin/Debug/net10.0/Sandbox
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/bin/Debug/net10.0/Sandbox.deps.json
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/bin/Debug/net10.0/Sandbox.runtimeconfig.json
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/bin/Debug/net10.0/Sandbox.dll
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/bin/Debug/net10.0/Sandbox.pdb
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/obj/Debug/net10.0/Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/obj/Debug/net10.0/Sandbox.AssemblyInfoInputs.cache
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/obj/Debug/net10.0/Sandbox.AssemblyInfo.cs
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/obj/Debug/net10.0/Sandbox.csproj.CoreCompileInputs.cache
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/obj/Debug/net10.0/Sandbox.sourcelink.json
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/obj/Debug/net10.0/Sandbox.dll
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/obj/Debug/net10.0/refint/Sandbox.dll
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/obj/Debug/net10.0/Sandbox.pdb
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/obj/Debug/net10.0/Sandbox.genruntimeconfig.cache
+/Users/dallinstewart/CSE210/CSE210/sandbox/Sandbox/obj/Debug/net10.0/ref/Sandbox.dll
