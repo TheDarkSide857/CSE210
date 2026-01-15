@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/sandbox/Sandbox/Sandbox.csproj": {}
+    "/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/Exercise5.csproj": {}
   },
   "projects": {
-    "/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/sandbox/Sandbox/Sandbox.csproj": {
+    "/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/Exercise5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/sandbox/Sandbox/Sandbox.csproj",
-        "projectName": "Sandbox",
-        "projectPath": "/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/sandbox/Sandbox/Sandbox.csproj",
+        "projectUniqueName": "/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/Exercise5.csproj",
+        "projectName": "Exercise5",
+        "projectPath": "/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/Exercise5.csproj",
         "packagesPath": "/Users/dallinstewart/.nuget/packages/",
-        "outputPath": "/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/sandbox/Sandbox/obj/",
+        "outputPath": "/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dallinstewart/.nuget/NuGet/NuGet.Config"
