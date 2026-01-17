@@ -1,0 +1,15 @@
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/bin/Debug/net10.0/Exercise5
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/bin/Debug/net10.0/Exercise5.deps.json
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/bin/Debug/net10.0/Exercise5.runtimeconfig.json
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/bin/Debug/net10.0/Exercise5.dll
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/bin/Debug/net10.0/Exercise5.pdb
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/Debug/net10.0/Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/Debug/net10.0/Exercise5.AssemblyInfoInputs.cache
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/Debug/net10.0/Exercise5.AssemblyInfo.cs
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/Debug/net10.0/Exercise5.csproj.CoreCompileInputs.cache
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/Debug/net10.0/Exercise5.sourcelink.json
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/Debug/net10.0/Exercise5.dll
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/Debug/net10.0/refint/Exercise5.dll
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/Debug/net10.0/Exercise5.pdb
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/Debug/net10.0/Exercise5.genruntimeconfig.cache
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week01/Exercise5/obj/Debug/net10.0/ref/Exercise5.dll
