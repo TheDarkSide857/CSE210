@@ -1,3 +1,4 @@
+// I exceeded the core by making sure the program only hides words that are not already hidden by checking and skipping words that are already hidden.
 using System;
 
 class Program
@@ -21,7 +22,7 @@ class Program
         }
 
         Console.Clear();
-        Console.WriteLine(scripture.GetText()); // Hide all remaining words
+        Console.WriteLine(scripture.GetText());
         Console.WriteLine("All words are hidden. Well done!");
     }
 }
