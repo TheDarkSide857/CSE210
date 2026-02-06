@@ -1,0 +1,15 @@
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/bin/Debug/net10.0/Homework
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/bin/Debug/net10.0/Homework.deps.json
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/bin/Debug/net10.0/Homework.runtimeconfig.json
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/bin/Debug/net10.0/Homework.dll
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/bin/Debug/net10.0/Homework.pdb
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/obj/Debug/net10.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/obj/Debug/net10.0/Homework.AssemblyInfoInputs.cache
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/obj/Debug/net10.0/Homework.AssemblyInfo.cs
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/obj/Debug/net10.0/Homework.csproj.CoreCompileInputs.cache
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/obj/Debug/net10.0/Homework.sourcelink.json
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/obj/Debug/net10.0/Homework.dll
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/obj/Debug/net10.0/refint/Homework.dll
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/obj/Debug/net10.0/Homework.pdb
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/obj/Debug/net10.0/Homework.genruntimeconfig.cache
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week05/Homework/obj/Debug/net10.0/ref/Homework.dll
