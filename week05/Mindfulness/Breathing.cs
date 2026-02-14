@@ -8,10 +8,10 @@ class Breathing : Activity
 
     public new void Display()
     {
-        int duration = base.Display();
+        base.Display();
         Console.WriteLine("Follow the prompts to breathe in and out slowly.");
 
-        DateTime endTime = DateTime.Now.AddSeconds(duration);
+        DateTime endTime = DateTime.Now.AddSeconds(_duration);
         while (DateTime.Now < endTime)
         {
             Console.WriteLine("Breathe in...");
@@ -20,6 +20,6 @@ class Breathing : Activity
             ShowSpinner(3);
         }
 
-        End(duration);
+        End(_duration);
     }
 }

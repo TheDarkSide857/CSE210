@@ -8,7 +8,7 @@ class Listing : Activity
 
     public new void Display()
     {
-        int duration = base.Display();
+        base.Display();
         Random rand = new Random();
 
         string[] prompts = {
@@ -31,7 +31,7 @@ class Listing : Activity
         Console.WriteLine("Now, start listing as many responses as you can to the prompt. You may begin in:");
         ShowSpinner(5);
 
-        DateTime endTime = DateTime.Now.AddSeconds(duration);
+        DateTime endTime = DateTime.Now.AddSeconds(_duration);
         int count = 0;
     
         while (DateTime.Now < endTime)
@@ -46,6 +46,6 @@ class Listing : Activity
     
         Console.WriteLine($"You listed {count} items!");
         
-        End(duration);
+        End(_duration);
     }
 }

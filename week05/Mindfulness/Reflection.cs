@@ -7,7 +7,7 @@ class Reflection : Activity
 
     public new void Display()
     {
-        int duration = base.Display();
+        base.Display();
         Random rand = new Random();
 
         string[] prompts = {
@@ -38,7 +38,7 @@ class Reflection : Activity
         Console.WriteLine("When you have something in mind, press enter to continue.");
         Console.ReadLine();
 
-        DateTime endTime = DateTime.Now.AddSeconds(duration);
+        DateTime endTime = DateTime.Now.AddSeconds(_duration);
 
         while (DateTime.Now < endTime)
         {
@@ -47,6 +47,6 @@ class Reflection : Activity
             ShowSpinner(5);
         }
 
-        End(duration);
+        End(_duration);
     }
 }

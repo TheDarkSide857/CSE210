@@ -2,16 +2,20 @@ using System;
 
 class Activity
 {
-    public string Name { get; set; }
-    public string Description { get; set; }
+    private readonly string _name;
+    private readonly string _description;
+    protected int _duration;
 
+    public string Name => _name;
+    public string Description => _description;
+    
     public Activity(string name, string description)
     {
-        Name = name;
-        Description = description;
+        _name = name;
+        _description = description;
     }
 
-    public int Display()
+    public void Display()
     {
         Console.WriteLine($"Welcome to the {Name} Activity!");
         Console.WriteLine(Description);
@@ -21,9 +25,9 @@ class Activity
         {
             Console.WriteLine("Please enter a valid positive integer for the duration.");
         }
-        Console.WriteLine("Get ready to begin...");
+        _duration = duration;
+        Console.WriteLine("Get ready...");
         ShowSpinner(5);
-        return duration;
     }
     public void End(int duration)
     {
