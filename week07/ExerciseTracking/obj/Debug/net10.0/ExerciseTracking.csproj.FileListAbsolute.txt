@@ -1,0 +1,15 @@
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking.deps.json
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking.runtimeconfig.json
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking.dll
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/bin/Debug/net10.0/ExerciseTracking.pdb
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.AssemblyInfoInputs.cache
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.AssemblyInfo.cs
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.csproj.CoreCompileInputs.cache
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.sourcelink.json
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.dll
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/refint/ExerciseTracking.dll
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.pdb
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ExerciseTracking.genruntimeconfig.cache
+/Users/dallinstewart/Library/Mobile Documents/com~apple~CloudDocs/CSE210/CSE210/week07/ExerciseTracking/obj/Debug/net10.0/ref/ExerciseTracking.dll
